@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Nate 👋
+- 😄 Pronouns: he/him
+- Software Developer
+- Blogger at https://natespilman.com/
+- Organizer of the Junior Dev Struggle Bus meetup - https://juniordevstrugglebus.com/
+- Organizer of Everyone Plays the Same Song covers project - https://everyoneplaysthesamesong.com/
+
 
 <!--
 **nspilman/nspilman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
