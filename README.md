@@ -1,9 +1,11 @@
 ### Hi there, I'm Nate 👋
 - Pronouns: he/him
-- Software Developer
-- Blogger at https://natespilman.com/
+- Software Engineer at [Monthly.com](url)
+- Personal Site at https://natespilman.com/
 - Organizer of the Junior Dev Struggle Bus meetup - https://juniordevstrugglebus.com/
 - Organizer of Everyone Plays the Same Song covers project - https://everyoneplaysthesamesong.com/
+
+- 🔭 I’m currently working on https://web-synth.netlify.app/
 
 
 <!--
