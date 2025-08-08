@@ -2,6 +2,8 @@
 - Pronouns: he/him
 - Personal Site at [natespilman.com](https://natespilman.com/)
 - Organizer of Everyone Plays the Same Song covers project - [everyoneplaysthesamesong.com](https://everyoneplaysthesamesong.com/)
+- Currently working on a map based Expo app
+- Currently learning Rust, mostly for fun 
 
 <!--
 **nspilman/nspilman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
