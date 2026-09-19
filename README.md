@@ -2,7 +2,7 @@
 - Pronouns: he/him
 - Personal Site at [natespilman.com](https://natespilman.com/)
 - Organizer of Everyone Plays the Same Song covers project - [everyoneplaysthesamesong.com](https://everyoneplaysthesamesong.com/)
-- Excited about the AT Protocol (natespilman.at)
+- Excited about the AT Protocol [natespilman.at](natespilman.at)
 
 <!--
 **nspilman/nspilman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
